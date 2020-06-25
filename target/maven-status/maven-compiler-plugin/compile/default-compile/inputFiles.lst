@@ -1,0 +1,11 @@
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/models/MinHashSignature.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/operations/LSHTransform.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/models/LSHPair.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/operations/DocumentSource.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/pipelines/config/LSHPipelineOptions.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/common/GenericLogger.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/models/coders/LSHPairCustomCoder.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/accumulators/MinHashSignatureAccumulator.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/models/coders/MinHashSignatureCustomCoder.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/operations/ShingleConstructor.java
+/Users/lvijnck/Documents/Big Data Analytics/2. Similar Items/Assignment/src/main/java/pipelines/LSHPipeline.java
